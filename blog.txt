@@ -1,0 +1,21 @@
+sapere la logic du code html 
+
+//debut du tampon de la page d esortie
+ob_start();
+
+cest pour recuper le titre et affiche ds layout
+
+et recuperer le contenue ds page la page index aussi
+
+
+mtn sur draw comment importe( avoir le code de votre bd en representation de code ) et le mettre ds cest projet
+
+
+
+/////
+puis alle sur la base de donne puis ajoute,excute 
+-cree article_id puis sur primary prenait index et mette cle_etrangere et ok
+ok vous allez vor un cle griz a cote de votre article
+
+puis plus conception puis a gauche nouvelle relation,puis choisir lid de la table principal et et lid de votre table ou vous vouz le mettre
+et mettais les deux en cascade et ok, puis actualise
